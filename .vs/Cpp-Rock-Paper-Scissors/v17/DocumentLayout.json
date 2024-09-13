@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikav\\Desktop\\Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF21DC5-2CBD-43F4-9D52-9BFE6D5EDA06}|Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors.vcxproj|C:\\Users\\nikav\\Desktop\\Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFF21DC5-2CBD-43F4-9D52-9BFE6D5EDA06}|Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors.vcxproj|solutionrelative:Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cpp-Rock-Paper-Scissors.cpp",
+              "DocumentMoniker": "C:\\Users\\nikav\\Desktop\\Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors.cpp",
+              "RelativeDocumentMoniker": "Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors.cpp",
+              "ToolTip": "C:\\Users\\nikav\\Desktop\\Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors.cpp",
+              "RelativeToolTip": "Cpp-Rock-Paper-Scissors\\Cpp-Rock-Paper-Scissors.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T08:40:12.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
